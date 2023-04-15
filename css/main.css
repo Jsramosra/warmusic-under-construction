@@ -53,6 +53,10 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
     }
 
     #typing-effect {
-font-size: 22px
+        font-size: 22px
+    }
+
+    .header-info img{
+        height: 125px;
     }
   }
